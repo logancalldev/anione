@@ -1,4 +1,6 @@
 # Anione
+> This is no longer maintained. If you're interested in doing so, please let me know.
+
 A CLI (NPM) tool to ease the repetitiveness that comes with coding HTML5 banner ads. Animate one banner with Greensock's animation library, resize it, preview it, package it, done. Anione lets you focus on the animation.
 
 Once you've animated your first banner, you can run *resize* and then easily tweak that animation for each size, giving you full control over each size.
